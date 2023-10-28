@@ -231,6 +231,8 @@ main .s-book li:nth-child(4) a{
 
 /*/////// Start Footer ///////*/
 footer {
+  position: relative;
+  bottom: 0;
   margin-top: 100px;
   width: 100%;
   padding: 20px 0;
